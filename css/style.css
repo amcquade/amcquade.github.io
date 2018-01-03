@@ -235,7 +235,7 @@ header {
 }
 .main section.page1 h2 {
    color: rgba(0,0,0,0.85);
-   text-align: center;
+   text-align: left;
    width: 435px;
    line-height: 160%;
 }
